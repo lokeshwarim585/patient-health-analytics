@@ -1,0 +1,56 @@
+patient_id,age,gender,region,primary_diagnosis,bmi,systolic_bp,blood_glucose_mg_dl,cholesterol_mg_dl,smoking_status,risk_score
+P00005,40,Female,East,Coronary Artery Disease,34.6,140,103.1,195.0,Current,4
+P00041,58,Male,South,Obesity,30.6,106,160.1,254.0,Former,4
+P00064,23,Male,West,Anxiety Disorder,22.0,140,145.6,262.0,Former,4
+P00198,47,Female,South,Hypertension,21.7,154,150.3,239.0,Current,4
+P00224,15,Male,South,Anxiety Disorder,27.6,104,133.6,257.0,Current,4
+P00302,34,Male,East,Chronic Kidney Disease,30.5,132,127.5,276.0,Former,4
+P00319,50,Female,West,Hypertension,30.5,150,131.9,167.0,Never,4
+P00361,54,Male,West,Diabetes Type 2,30.1,122,126.0,245.0,Former,4
+P00387,51,Female,East,Hypertension,30.0,149,150.2,203.0,Never,4
+P00433,40,Male,North,Hypertension,15.9,164,140.8,216.0,Current,4
+P00491,44,Male,East,Obesity,30.8,147,155.5,245.0,Never,4
+P00575,59,Male,Central,Obesity,24.4,148,60.0,257.0,Current,4
+P00589,59,Female,Central,Diabetes Type 2,37.9,148,145.3,134.0,Current,5
+P00647,1,Male,South,Hypertension,35.6,108,134.8,287.0,Former,4
+P00699,61,Female,West,Chronic Kidney Disease,36.1,146,82.4,181.0,Current,4
+P00727,45,Female,Central,Obesity,20.2,161,136.7,268.0,Never,4
+P00758,48,Male,East,Obesity,17.5,142,142.0,193.0,Current,4
+P00802,35,Male,Central,Hypertension,31.9,119,136.5,283.0,Never,4
+P00863,72,Male,East,Obesity,33.9,100,127.5,216.0,Current,4
+P00970,19,Male,North,Chronic Kidney Disease,30.9,145,140.9,136.0,Former,4
+P00977,36,Male,South,Hypertension,32.1,146,138.7,216.0,Current,5
+P00997,77,Female,North,Hypertension,33.1,145,124.8,251.0,Never,4
+P01022,34,Female,East,Coronary Artery Disease,14.9,137,133.7,261.0,Current,4
+P01041,75,Male,North,Depression,17.7,91,136.4,272.0,Current,4
+P01066,24,Female,North,Diabetes Type 2,39.9,152,143.6,259.0,Former,4
+P01078,37,Male,North,Obesity,37.0,116,127.4,182.0,Current,4
+P01103,82,Female,North,Obesity,32.7,115,132.1,180.0,Current,4
+P01108,26,Male,South,Hypertension,34.6,140,164.5,189.0,Former,4
+P01119,48,Female,Central,Obesity,32.7,146,94.5,326.0,Current,4
+P01129,43,Male,Central,Diabetes Type 2,31.3,151,144.8,272.0,Never,4
+P01155,74,Male,East,Anxiety Disorder,36.6,101,150.3,207.0,Current,4
+P01210,76,Male,West,Hypertension,31.4,142,136.7,259.0,Never,5
+P01231,34,Female,South,Asthma,26.1,155,70.3,252.0,Current,4
+P01241,38,Male,West,Obesity,32.2,127,143.1,232.0,Current,4
+P01255,67,Female,East,Diabetes Type 2,34.0,163,88.6,281.0,Never,4
+P01362,55,Male,South,Diabetes Type 2,34.5,141,130.8,133.0,Current,4
+P01445,52,Female,South,Chronic Kidney Disease,31.3,148,73.7,277.0,Never,4
+P01456,13,Male,Central,Obesity,33.4,110,125.8,256.0,Current,4
+P01527,78,Female,North,Diabetes Type 2,37.0,151,113.2,264.0,Never,4
+P01535,36,Female,West,Diabetes Type 2,31.1,144,131.8,208.0,Former,4
+P01620,65,Male,West,Diabetes Type 2,27.4,140,150.3,245.0,Never,4
+P01628,68,Other,South,Asthma,24.0,147,96.2,243.0,Current,4
+P01655,51,Male,East,Diabetes Type 2,32.8,132,138.9,194.0,Current,4
+P01659,26,Female,South,Hypertension,31.9,85,137.1,246.0,Never,4
+P01681,52,Male,East,Depression,34.7,89,156.1,176.0,Current,4
+P01744,65,Male,North,Depression,34.2,145,133.0,290.0,Never,4
+P01764,16,Female,Central,Diabetes Type 2,34.0,141,141.1,232.0,Current,5
+P01780,32,Other,North,Hypertension,36.5,110,137.6,188.0,Current,4
+P01820,27,Male,South,COPD,33.7,141,145.9,213.0,Never,4
+P01875,68,Female,Central,Depression,15.2,158,198.6,205.0,Current,4
+P01881,62,Male,North,Obesity,36.1,137,138.6,225.0,Current,4
+P01886,50,Female,South,Diabetes Type 2,36.8,151,142.7,211.0,Former,4
+P01916,35,Male,East,Anxiety Disorder,32.1,80,103.7,249.0,Current,4
+P01922,58,Female,South,Hypertension,31.4,163,102.8,176.0,Current,4
+P01941,50,Female,East,Anxiety Disorder,34.8,142,63.5,220.0,Current,4

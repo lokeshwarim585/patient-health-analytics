@@ -1,0 +1,6 @@
+factor,chi2_stat,p_value,dof,significant (p<0.05)
+smoking_status,25.562,0.06052,16,False
+physical_activity_level,15.964,0.88936,24,False
+region,43.869,0.07882,32,False
+gender,19.004,0.26848,16,False
+age_group,37.976,0.21557,32,False
